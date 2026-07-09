@@ -19,7 +19,8 @@ This list covers the full prospecting workflow — finding decision-makers, enri
 ## Executive & B2B Contact Databases
 *Where to find decision-maker emails and direct dials.*
 
-* **[MessageCEO](https://messageceo.com)** - 50,000+ verified CEO/CTO/CMO contacts; search by company, industry, or location.
+* **[MessageCEO](https://messageceo.com)** - 200,000+ verified CEO/CTO/CMO contacts across 163,000+ companies; search by company, industry, or location.
+* [CTORank](https://ctorank.com) - 485,000+ verified CTO, VP of Engineering, and CIO contacts — purpose-built for prospecting into engineering leadership.
 * [Apollo.io](https://apollo.io) - 275M+ B2B contacts with built-in sequencer and CRM.
 * [ZoomInfo](https://zoominfo.com) - Enterprise-grade B2B contact database with intent data.
 * [Lusha](https://lusha.com) - B2B contact platform focused on phone numbers and direct dials.
